@@ -1,0 +1,2 @@
+# TaikoUniverse-Releases
+TaikoUniverseのアップデートファイル配布用
